@@ -1,0 +1,9 @@
+D:\Aldo Nitip\Kuliah\Provis\praktikum\pertemuan 1\partTambahan\partTambahan\bin\Debug\partTambahan.exe.config
+D:\Aldo Nitip\Kuliah\Provis\praktikum\pertemuan 1\partTambahan\partTambahan\obj\Debug\partTambahan.csprojResolveAssemblyReference.cache
+D:\Aldo Nitip\Kuliah\Provis\praktikum\pertemuan 1\partTambahan\partTambahan\obj\Debug\partTambahan.Form1.resources
+D:\Aldo Nitip\Kuliah\Provis\praktikum\pertemuan 1\partTambahan\partTambahan\obj\Debug\partTambahan.Properties.Resources.resources
+D:\Aldo Nitip\Kuliah\Provis\praktikum\pertemuan 1\partTambahan\partTambahan\obj\Debug\partTambahan.csproj.GenerateResource.Cache
+D:\Aldo Nitip\Kuliah\Provis\praktikum\pertemuan 1\partTambahan\partTambahan\bin\Debug\partTambahan.exe
+D:\Aldo Nitip\Kuliah\Provis\praktikum\pertemuan 1\partTambahan\partTambahan\bin\Debug\partTambahan.pdb
+D:\Aldo Nitip\Kuliah\Provis\praktikum\pertemuan 1\partTambahan\partTambahan\obj\Debug\partTambahan.exe
+D:\Aldo Nitip\Kuliah\Provis\praktikum\pertemuan 1\partTambahan\partTambahan\obj\Debug\partTambahan.pdb

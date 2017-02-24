@@ -1,0 +1,9 @@
+D:\Aldo Nitip\Kuliah\Provis\praktikum\pertemuan 1\part2\part2\bin\Debug\part2.exe.config
+D:\Aldo Nitip\Kuliah\Provis\praktikum\pertemuan 1\part2\part2\obj\Debug\part2.csprojResolveAssemblyReference.cache
+D:\Aldo Nitip\Kuliah\Provis\praktikum\pertemuan 1\part2\part2\obj\Debug\part2.Form1.resources
+D:\Aldo Nitip\Kuliah\Provis\praktikum\pertemuan 1\part2\part2\obj\Debug\part2.Properties.Resources.resources
+D:\Aldo Nitip\Kuliah\Provis\praktikum\pertemuan 1\part2\part2\obj\Debug\part2.csproj.GenerateResource.Cache
+D:\Aldo Nitip\Kuliah\Provis\praktikum\pertemuan 1\part2\part2\bin\Debug\part2.exe
+D:\Aldo Nitip\Kuliah\Provis\praktikum\pertemuan 1\part2\part2\bin\Debug\part2.pdb
+D:\Aldo Nitip\Kuliah\Provis\praktikum\pertemuan 1\part2\part2\obj\Debug\part2.exe
+D:\Aldo Nitip\Kuliah\Provis\praktikum\pertemuan 1\part2\part2\obj\Debug\part2.pdb

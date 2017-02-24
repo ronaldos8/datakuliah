@@ -1,0 +1,8 @@
+D:\Aldo Nitip\Kuliah\Provis\praktikum\pertemuan 1\part3\part3\bin\Debug\part3.exe.config
+D:\Aldo Nitip\Kuliah\Provis\praktikum\pertemuan 1\part3\part3\obj\Debug\part3.Form1.resources
+D:\Aldo Nitip\Kuliah\Provis\praktikum\pertemuan 1\part3\part3\obj\Debug\part3.Properties.Resources.resources
+D:\Aldo Nitip\Kuliah\Provis\praktikum\pertemuan 1\part3\part3\obj\Debug\part3.csproj.GenerateResource.Cache
+D:\Aldo Nitip\Kuliah\Provis\praktikum\pertemuan 1\part3\part3\bin\Debug\part3.exe
+D:\Aldo Nitip\Kuliah\Provis\praktikum\pertemuan 1\part3\part3\bin\Debug\part3.pdb
+D:\Aldo Nitip\Kuliah\Provis\praktikum\pertemuan 1\part3\part3\obj\Debug\part3.exe
+D:\Aldo Nitip\Kuliah\Provis\praktikum\pertemuan 1\part3\part3\obj\Debug\part3.pdb
